@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Demonen4k&label=PROFILE+VIEWS+(просмотров+профиля))
 
 
-![]([https://i.pinimg.com/originals/d1/70/c4/d170c4a28d1552c8382fadb824d6d3e1.gif](https://cdn.dribbble.com/users/1206528/screenshots/6057470/comp_5.gif))
+![](https://www.cogneesol.com/blog/wp-content/uploads/2021/12/Remote-Work-Security.gif)
 ---
 
 
