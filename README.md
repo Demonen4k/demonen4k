@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Demonen4k&label=PROFILE+VIEWS+(просмотров+профиля))
 
 
-![](![image](https://user-images.githubusercontent.com/99865144/206763161-29eadf50-6223-4163-9e98-a290caef3dbe.png))
+![image](https://user-images.githubusercontent.com/99865144/206763161-29eadf50-6223-4163-9e98-a290caef3dbe.png)
 ---
 
 
