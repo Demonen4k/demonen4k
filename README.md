@@ -14,6 +14,8 @@
 <p>🖥️ In my developments I can use such programming languages as:</p>
 <p>• C/C++</p>
 <p>• Python</p>
+<p>• SQL</p>
+<p>• HTML</p>
 <p>📚 Now I am actively studying the principles of cyber attacks, the creation of secure communication nodes and social engineering.</p>
 </br>
 
