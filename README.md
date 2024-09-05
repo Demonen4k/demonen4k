@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800080&lines=Cyber+security+student)](https://git.io/typing-svg)
 <h1>About me:</h1>
-<p>I am a third-year student at RTU MIREA in the field of information security. Here you can watch my successes and failures.</p>
+<p>I am a fourth-year student at RTU MIREA in the field of information security. Here you can watch my successes and failures.</p>
 </br>
 <p>🖥️ In my developments I can use such programming languages as:</p>
 <p>• C/C++</p>
